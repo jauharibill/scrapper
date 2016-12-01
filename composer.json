@@ -1,0 +1,21 @@
+{
+    "name": "billxcode/cum-ghost",
+    "description": "cum-ghost is php library that provide simple way to craw and scrap website",
+    "type": "library",
+    "license": "GPU",
+    "authors": [
+        {
+            "name": "billxcode",
+            "email": "xcodebill@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.3.0"
+    },
+    "autoload":{
+        "psr-0":{
+            "CumGhost":"src/"
+        }
+    }
+}
