@@ -2,11 +2,11 @@
     "name": "jauharibill/scrapper",
     "description": "cum-ghost is php library that provide simple way to craw and scrap website",
     "type": "library",
-    "license": "GPU",
+    "license": "MIT",
     "authors": [
         {
             "name": "Bill Tanthowi Jauhari",
-            "email": "bill.tanthowi.j@@gmail.com"
+            "email": "bill.tanthowi.j@gmail.com"
         }
     ],
     "minimum-stability": "dev",
