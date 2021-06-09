@@ -1,6 +1,6 @@
 <?php 
 
-namespace CumGhost;
+namespace HTML;
 
 include "simple_html_dom.php";
 /**

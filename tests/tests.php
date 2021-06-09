@@ -2,7 +2,7 @@
 
 require_once __DIR__ . "/../vendor/autoload.php";
 
-use CumGhost\Crawler;
+use HTML\Crawler;
 
 // $data = new Crawler("http://uin-malang.ac.id/r/161101/toleransi-tinggi-ala-nabi.html");
 /**

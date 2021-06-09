@@ -1,5 +1,5 @@
 {
-    "name": "jauharibill/http-request",
+    "name": "jauharibill/scrapper",
     "description": "cum-ghost is php library that provide simple way to craw and scrap website",
     "type": "library",
     "license": "GPU",
@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-0":{
-            "CumGhost":"src/"
+            "HTML\\":"src/"
         }
     }
 }
