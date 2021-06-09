@@ -1,12 +1,12 @@
 {
-    "name": "billxcode/cum-ghost",
+    "name": "jauharibill/http-request",
     "description": "cum-ghost is php library that provide simple way to craw and scrap website",
     "type": "library",
     "license": "GPU",
     "authors": [
         {
-            "name": "billxcode",
-            "email": "xcodebill@gmail.com"
+            "name": "Bill Tanthowi Jauhari",
+            "email": "bill.tanthowi.j@@gmail.com"
         }
     ],
     "minimum-stability": "dev",
